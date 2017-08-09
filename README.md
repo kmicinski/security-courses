@@ -8,6 +8,7 @@ A list of security courses at colleges and universities
 - UMD, 2012, 498L: Cybersecurity lab -- http://www.cs.umd.edu/class/fall2012/cmsc498L/
 - CMU, 2013, Brumley: Introduction to Computer Security, Network Security, and Applied Cryptography -- https://users.ece.cmu.edu/~dbrumley/courses/18487-f13/
 - CMU, 2017, Yang and Fredrikson: Software Foundations of Security and Privacy -- https://cmu-15-316.github.io/schedule/
+- Berkeley, 2016, CS 161: Computer Security -- http://www-inst.cs.berkeley.edu/~cs161/sp16/
 
 # Graduate
 
