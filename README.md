@@ -12,6 +12,7 @@ A list of security courses at colleges and universities
 # Graduate
 
 - UMD, 2014, Hicks: 848G, Software Security -- http://www.cs.umd.edu/class/spring2014/cmsc838g/
+- UCSC, 2017, Arden: Advanced Computer Security -- https://users.soe.ucsc.edu/~owen/courses/cmps223/fa17/index.html
 
 # Workshops / Tutorials / etc...
 
